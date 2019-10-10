@@ -1,0 +1,40 @@
+    1  pwd
+    2  git clone https://github.com/shiyanlou/project
+    3  git clone https://github.com/shiyanlou/gitproject
+    4  ls
+    5  git clone https://github.com/Louplus.git
+    6  git clone https://github.com/huangyinlai/Louplus.git
+    7  ls
+    8  cd Louplus
+    9  ls
+   10  weget https://labfile.oss.aliyuncs.com/courses/1330/linux.png
+   11  wget https://labfile.oss.aliyuncs.com/courses/1330/linux.png
+   12  wget https://labfile.oss.aliyuncs.com/courses/1330/python.1png.png
+   13  wget https://labfile.oss.aliyuncs.com/courses/1330/python.2png.png
+   14  wget https://labfile.oss.aliyuncs.com/courses/1330/git.png
+   15  git add -all
+   16  git add --all
+   17  git commit
+   18  git remote
+   19  git push
+   20  git config --global push.default simple
+   21  git push
+   22  git push https://github.com/huangyinlai/Louplus.git
+   23  git remote add Louplus add https://github.com/huangyinlai/Louplus.git 
+   24  git config --global user.email "770935579@qq.com"
+   25  git config --global user.namr  "huangyinlai"
+   26  git config -list
+   27  git config --list
+   28  git status
+   29  git log
+   30  git commit
+   31  git commit -m
+   32  git commit
+   33  git config --global user.name  "huangyinlai"
+   34  git commit
+   35  git commit -a
+   36  git commit 
+   37  git remote
+   38  git push
+   39  history
+   40  pwd
